@@ -1,3 +1,8 @@
+/***********************************************************************************
+* @main.c
+* @This code implements UART drivers in blocking and rx non-blocking way.
+* @authors Amreeta Sengupta & Ridhi Shah
+************************************************************************************/
 #include "fsl_device_registers.h"
 #include "fsl_debug_console.h"
 #include "stdio.h"

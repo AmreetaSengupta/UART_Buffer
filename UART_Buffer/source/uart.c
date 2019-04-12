@@ -1,4 +1,8 @@
-
+/***********************************************************************************
+* @uart.c
+* @This code implements UART APIs for printing and scanning.
+* @authors Amreeta Sengupta & Ridhi Shah
+************************************************************************************/
 #include "uart.h"
 #include "ring.h"
 

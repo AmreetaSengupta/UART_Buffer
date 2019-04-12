@@ -1,3 +1,9 @@
+/***********************************************************************************
+* @ledtoggle.c
+* @This code implements function for LED toggle.
+* @Tools used : GCC & GNU make
+* @authors Amreeta Sengupta & Ridhi Shah
+************************************************************************************/
 #include "ledtoggle.h"
 extern int led_flag;
 

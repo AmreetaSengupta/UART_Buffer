@@ -1,3 +1,8 @@
+/***********************************************************************************
+* @char_count.c
+* @This code implements a function for keeping track of the character input from UART.
+* @authors Amreeta Sengupta & Ridhi Shah
+************************************************************************************/
 #include "char_count.h"
 
 uint16_t fib0=0, fib1=1,fibsum;
