@@ -1,3 +1,8 @@
+/***********************************************************************************
+* @uart.h
+* @This contains variable definition and function prototypes for uart.c
+* @authors Amreeta Sengupta & Ridhi Shah
+************************************************************************************/
 #include "board.h"
 #include "pin_mux.h"
 #include "MKL25Z4.h"
